@@ -6,6 +6,7 @@ This project combines the two of them
 
 
 ## Download & Setup Instructions
+
 1 - Clone project: git clone https://github.com/GianlucaVend/notes-app
 2 - cd notes_app
 3 - Create virtual environment: virtualenv myenv
