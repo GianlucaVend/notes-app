@@ -7,9 +7,9 @@ This project combines the two of them
 
 ## Download & Setup Instructions
 
-$ Clone project: git clone https://github.com/GianlucaVend/notes-app
-2  - cd notes_app
-3 - Create virtual environment: virtualenv myenv
-4 - myenv\scripts\activate
-5 - pip install -r requirements.txt
-6 - python manage.py runserver
+* Clone project: git clone https://github.com/GianlucaVend/notes-app
+* cd notes_app
+* Create virtual environment: virtualenv myenv
+* myenv\scripts\activate
+* pip install -r requirements.txt
+* python manage.py runserver
