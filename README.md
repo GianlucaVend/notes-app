@@ -1,4 +1,4 @@
-## notes-app
+## Django and React Notes App
 
 Doucmenting my journey of learning front-end development with react and back-end with Django. 
 
